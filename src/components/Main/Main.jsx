@@ -90,7 +90,7 @@ function App() {
 
 				<FormControl sx={{ m: 1, minWidth: 120 }}>
 					<InputLabel htmlFor='grouped-native-select'>
-						Company
+						Complex
 					</InputLabel>
 					<Select
 						className='cls'
@@ -117,7 +117,7 @@ function App() {
 
 				<FormControl sx={{ m: 1, minWidth: 120 }}>
 					<InputLabel htmlFor='grouped-native-select'>
-						Company
+						Room
 					</InputLabel>
 					<Select
 						className='cls'
@@ -141,7 +141,7 @@ function App() {
 
 				<FormControl sx={{ m: 1, minWidth: 120 }}>
 					<InputLabel htmlFor='grouped-native-select'>
-						Company
+						Banks
 					</InputLabel>
 					<Select
 						className='cls'
